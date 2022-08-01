@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "968540427510",
+    "project_id": "novo-production-f96d3",
+    "storage_bucket": "novo-production-f96d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968540427510:android:ae3f9c211baebfcaf008d7",
+        "android_client_info": {
+          "package_name": "com.amazon.tv.leanbacklauncher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968540427510-rvc54s7gkm6km9nsbnkdei8d429e3r7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjfiNSPPA4JYS54ckLUc4upfxLBDS8DV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968540427510-rvc54s7gkm6km9nsbnkdei8d429e3r7e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "968540427510-9mf90o6759p5krvtn0uqct4ejm6i8ta2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.test.novo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
